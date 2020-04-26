@@ -1,0 +1,28 @@
+{
+  "name": "bookmarks-app",
+  "version": "1.0.0",
+  "description": "This is the 7th lab practice, use of APIs & CRUD methods",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Jose Hugo Iglesias Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "uuid": "^7.0.3",
+    "uuidv4": "^6.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoChurches/Web-Dev-2020-L7.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HugoChurches/Web-Dev-2020-L7/issues"
+  },
+  "homepage": "https://github.com/HugoChurches/Web-Dev-2020-L7#readme"
+}
